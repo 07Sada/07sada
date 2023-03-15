@@ -13,6 +13,7 @@ I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the re
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=07sada&show_icons=true&locale=en&layout=compact" alt="07sada" /></p>
+<br> </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=07sada&show_icons=true&locale=en" alt="07sada" /></p>
 
